@@ -1,4 +1,4 @@
-country, capital, population, continent, language
+Country,Capital,Population,Language,Continent
 Afghanistan,Kabul,41100000,"Pashto, Dari",Asia
 Albania,Tirana,2800000,Albanian,Europe
 Algeria,Algiers,44200000,"Arabic, Berber",Africa
