@@ -1,14 +1,25 @@
 country, capital, population, continent, language
-Brazil, Brasilia, 216284269, South America, Portuguese
-Canada, Ottawa, 38000000, North America, French
-Chile, Santiago, 19629590, South America, Spanish
-Colombia, Bogota, 52215503, South America, Spanish
-Ecuador, Quito, 17510643, South America, Spanish
-Mexico, DF, 126000000, North America, Spanish
-Paraguay, Asuncion, 6861524, South America, Spanish
-Peru, Lima, 33725844, South America, Spanish
-USA, DC, 331000000, North America, English
-Venezuela, Caracas, 32219500, South America, Spanish
+Afghanistan,Kabul,41100000,"Pashto, Dari",Asia
+Albania,Tirana,2800000,Albanian,Europe
+Algeria,Algiers,44200000,"Arabic, Berber",Africa
+Andorra,Andorra la Vella,79000,Catalan,Europe
+Angola,Luanda,36900000,Portuguese,Africa
+Antigua and Barbuda,St. John's,93000,English,North America
+Argentina,Buenos Aires,45700000,Spanish,South America
+Armenia,Yerevan,2800000,Armenian,Asia
+Australia,Canberra,26100000,English,Australia/Oceania
+Austria,Vienna,8980000,German,Europe
+Azerbaijan,Baku,10200000,Azerbaijani,Asia
+Brazil,Brasilia,216284269,South America,Portuguese
+Canada,Ottawa,38000000,North America,French
+Chile,Santiago,19629590,South America,Spanish
+Colombia,Bogota,52215503,South America,Spanish
+Ecuador,Quito,17510643,South America,Spanish
+Mexico,DF,126000000,North America,Spanish
+Paraguay,Asuncion,6861524,South America,Spanish
+Peru,Lima,33725844,South America,Spanish
+USA,DC,331000000,North America,English
+Venezuela,Caracas,32219500,South America,Spanish
 
 
 
