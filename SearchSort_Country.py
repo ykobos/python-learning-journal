@@ -1,4 +1,4 @@
-# code works, search and sort
+# code works, search and sort but only with smaller files(databases)
 import csv
 
 class Country:
