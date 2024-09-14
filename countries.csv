@@ -1,7 +1,7 @@
 Country,Capital,Population,Language,Continent
-Afghanistan,Kabul,41100000,Pashto/Dari,Asia
+Afghanistan,Kabul,41100000,Pashto,Asia
 Albania,Tirana,2800000,Albanian,Europe
-Algeria,Algiers,44200000,Arabic/Berber,Africa
+Algeria,Algiers,44200000,Arabic,Africa
 Andorra,Andorra la Vella,79000,Catalan,Europe
 Angola,Luanda,36900000,Portuguese,Africa
 Antigua and Barbuda,St. John's,93000,English,North America
@@ -10,8 +10,27 @@ Armenia,Yerevan,2800000,Armenian,Asia
 Australia,Canberra,26100000,English,Australia/Oceania
 Austria,Vienna,8980000,German,Europe
 Azerbaijan,Baku,10200000,Azerbaijani,Asia
+Bahamas,Nassau,400000,English,North America
+Bahrain,Manama,1800000,Arabic,Asia
+Bangladesh,Dhaka,173900000,Bengali,Asia
+Barbados,Bridgetown,280000,English,North America
+Belarus,Minsk,9200000,Russian,Europe
+Belgium,Brussels,11600000,Dutch,Europe
+Belize,Belmopan,440000,English,North America
+Benin,Porto-Novo,14900000,French,Africa
+Bhutan,Thimphu,770000,Dzongkha,Asia
+Bolivia,Sucre,,12000000.Spanish,South America
+Bosnia and Herzegovina,Sarajevo,3200000,Bosnian,Europe
+Botswana,Gaborone,2600000,English,Africa
 Brazil,Brasilia,216284269,Portuguese,South America
-Canada,Ottawa,38000000,French,North America
+Brunei,Bandar Seri Begawan,450000,Malay,Asia
+Bulgaria,Sofia,6500000,Bulgarian,Europe
+Burkina Faso,Ouagadougou,23100000,French,Africa
+Burundi,Gitega,14700000,Kirundi,Africa
+Cabo Verde,Praia,590000,Portuguese,Africa
+Cambodia,Phnom Penh,17300000,Khmer,Asia
+Cameroon,Yaoundé,29300000,French,Africa
+Canada,Ottawa,38000000,English,North America
 Chile,Santiago,19629590,Spanish,South America
 Colombia,Bogota,52215503,Spanish,South America
 Ecuador,Quito,17510643,Spanish,South America
