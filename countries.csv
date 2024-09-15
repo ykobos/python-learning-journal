@@ -15,7 +15,7 @@ Bahrain,Manama,1800000,Arabic,Asia
 Bangladesh,Dhaka,173900000,Bengali,Asia
 Barbados,Bridgetown,280000,English,North America
 Belarus,Minsk,9200000,Belarusian/Russian,Europe
-Belgium,Brussels,11600000,Dutch,Europe
+Belgium,Brussels,11600000,Dutch/French,Europe
 Belize,Belmopan,440000,English,North America
 Benin,Porto-Novo,14900000,French,Africa
 Bhutan,Thimphu,770000,Dzongkha,Asia
@@ -31,14 +31,168 @@ Cabo Verde,Praia,590000,Portuguese,Africa
 Cambodia,Phnom Penh,17300000,Khmer,Asia
 Cameroon,Yaoundé,29300000,French,Africa
 Canada,Ottawa,38000000,English/French,North America
+Central African Republic,Bangui,5500000,French/Sango,Africa
+Chad,N'Djamena,18900000,French/Arabic,Africa
 Chile,Santiago,19629590,Spanish,South America
+China,Beijing,14400000000,Mandarin,Asia
 Colombia,Bogota,52215503,Spanish,South America
+Comoros,Moroni,920000,Comorian/French,Africa
+Congo,Brazzaville,6100000,French,Africa
+Costa Rica,San Jose,5400000,Spanish,North America
+Croatia,Zagreb,3800000,Croatian,Europe
+Cuba,Havana,11200000,Spanish,North America
+Cyprus,Nicosia,1200000,Greek/Turkish,Europe
+Czech Republic,Prague,10500000,Czech,Europe
+Democratic Republic of the Congo,Kinshasa,106800000,French,Africa
+Denmark,Copenhagen,5900000,Danish,Europe
+Djibouti,Djibouti,1100000,French/Arabic,Africa
+Dominica,Roseau,72000,English,North America
+Dominican Republic,Santo Domingo,11200000,Spanish,North America
+East Timor,Dili,1400000,Teton/Portuguese,Asia
 Ecuador,Quito,17510643,Spanish,South America
-Mexico,DF,126000000,Spanish,North America
+Egypt,Cairo,110900000,Arabic,Africa
+El Salvador,San Salvador,6600000,Spanish,North America
+England,London,55900000,English,Europe
+Equatorial Guinea,Malabo,1700000,Spanish/French,Africa
+Eritrea,Asmara,6100000,Tigrynia/English,Africa
+Estonia,Tallinn,1300000,Estonian,Europe
+Eswatini,Mbabane,1200000,Swati/English,Africa
+Ethiopia,Addis Ababa,126500000,Amharic/Oromo,Africa
+Fiji,Suva,920000,Fijan/English,Australia/Oceania
+Finland,Finland,5600000,Finnish/Swedish,Europe
+France,Paris,65800000,French,Europe
+Gabon,Libreville,2500000,French,Africa
+Gambia,Banjul,2700000,English,Africa
+Georgia,Tbilisi,3700000,Georgian,Europe
+Germany,Berlin,83200000,German,Europe
+Ghana,Accra,33800000,English,Africa
+Greece,Athens,10400000,Greek,Europe
+Grenada,St. George's,110000,English,North America
+Guatemala,Guatemala City,19100000,Spanish,North America
+Guinea,Conakry,14900000,French,Africa
+Guinea-Bissau,Bissau,2200000,Portuguese,Africa
+Guyana,Georgetown,790000,English,South America
+Haiti,Port-au-Prince,11500000,French/Haitian Creole,North America
+Honduras,Tegucigalpa,10900000,Spanish,North America
+Hungary,Budapest,9600000,Hungarian,Europe
+Iceland,Reykjavik,380000,Icelandiv,Europe
+India,New Delhi,1420000000,Hindi/English,Asia
+Indonesia,Jakarta281900000,Indonesian,Asia
+Iran,Tehran,86900000,Persian,Asia
+Iraq,Baghdad,44200000,Arabic/Kurdish,Asia
+Ireland,Dublin,5200000,Irish/English,Europe
+Israel,Jerusalem,9500000,Hebrew,Asia
+Italy,Rome,59000000,Italian,Europe
+Ivory Coast,Yamoussoukrom28500000,French,Africa
+Jamaica,Kingston,2800000,English,North America
+Japan,Tokyo,124400000,Japanese,Asia
+Jordan,Amman,11000000,Arabic,Asia
+Kazakhstan,Astana,20600000,Kazakh,Asia
+Kenya,Nairobi,56100000,Swahili/English,African
+Kiribati,Tarawa,130000,Kiribati/English,Australia/Oceania
+Korea, North (DPRK),Pyongyang,25800000,Korean,Asia
+Korea, South,Seoul,52100000,Korean,Afghanistan
+Kuwait,Kuwait City,4700000,Arabic,Asia
+Kyrgyzstan,Bishkek,6900000,Kyrgyz/Russian,Asia
+Laos,Vientiane,7700000,Lao,Asia
+Latvia,Riga,1800000,Latvian,Europe
+Lebanon,Beirut,5500000,Arabic,Asia
+Lesotho,Masero,2200000,Sotho//English,Africa
+Liberia,Monrovia,5600000,English,Africa
+Libya,Tripoli,7000000,Arabic,Africa
+Liechtenstein,Vaduz,40000,German,Europe
+Lithuania,Vilnius,2700000,Lithuanian,Europe
+Luxembourg,Luxembourg City,660000,Luxembourgish,/French,Europe
+Madagascar,Antananarivo,30200000,Malagasy/French,Africa
+Malawi,Lilongwe,22900000,Enhlish,Africa
+Malaysia,Kuala Lumpur,34500000,Malay,Asia
+Maldives,Male,550000,Dhivehi,Asia
+Mali,Bamako,24400000,Bambara/French,Africa
+Malta,Valletta,520000,Maltese/English,Europe
+Marshall Islands,Majuro,60000,Mashallese/English,Australia/Oceania
+Mauritania,Nouakchott,5100000,Arabic,Africa
+Mauritius,Port Louis,1300000,Mauritius/English,Africa
+Mexico,DF,130800000,Spanish,North America
+Micronesia,Palikir,110000,English,Australia/Oceania
+Moldova,Chisinau,2500000,Romanian,Europe
+Monaco,Monaco,39000,French,Europe
+Mongolia,Ulaanbaatar,3400000,Mongolian,Asia
+Montenegro,Podgorica,620000,Montenegrin,Europe
+Morocco,Rabat,38800000,Moroccan/Arabic,Africa
+Mozambique,Maputo,33400000,Portuguese,Africa
+Myanmar,Naypyidaw,55200000,Burmese,Asia
+Namibia,Windhoek,2700000,English/Namlsih,Africa
+Nauru,Yaren District,10800,Nauruan/English,Australia/Oceania
+Nepal,Kathmandu,31800000,Nepali,Asia
+Netherlands,Amsterdam,17800000,Dutch,Europe
+New Zealand,Wellington,5100000,English,Australia/Oceania
+Nicaragua,Managua,7000000,Spanish,North America
+Niger,Niamey,28500000,French,Africa
+Nigeria,Abuja,223800000,English,Africa
+North Macedonia,Skopje,2000000,Macedonian/Albanian,Europe
+Norway,Oslo,5500000,Norwegian,Europe
+Oman,Muscat,5500000,Arabic,Asia
+Pakistan,Islamabad,241500000,Urdu/English,Asia
+Palau,Ngerulmud,18000,Palauan/English,Australia/Oceania
+Panama,Panama City,4500000,Spanish,North America
+Papua New Guinea,Port Moresby,10600000,Tok Pisin/English,Australia/Oceania
 Paraguay,Asuncion,6861524,Spanish,South America
 Peru,Lima,33725844,Spanish,South America
-USA,DC,331000000,English,North America
+Philippines,Manila,113900000,Filipino/English,Asia
+Poland,Warsaw,37700000,Polish,Europe
+Portugal,Lisbon,10200000,Portuguese,Europe
+Qatar,Doha,3100000,Arabic,Asia
+Romania,Bucharest,18700000,Romanian,Europe
+Russia,Moscow,143900000,Russian,Eurasia
+Rwanda,Kigali,14100000,Kinyarwanda/English,Africa
+Saint Kitts and Nevis,Basseterre,50000,English,North America
+Saint Lucia,Castries,180000,English,North America
+Saint Vincent and the Grenadines,Kingstown,110000,English,North America
+Samoa,Apia,220000,Samoan/English,Australia/Oceania
+San Marino,San Marino,34000,Italian,Europe
+Sao Tome and Príncipe,Sao Tome,280000,Portuguese,Africa
+Saudi Arabia,Riyadh,37100000,Arabic,Asia
+Senegal,Dakar,18400000,French,Africa
+Serbia,Belgrade,6700000,Serbian,Europe
+Seychelles,Victoria,10000,Seychellois/English,Africa
+Sierra Leone,Freetown,8800000,English,Africa
+Singapore,Singapore,5600000,English/Mandarin,Asia
+Slovakia,Bratislava,5400000,SlovakEurope
+Slovenia,Ljubljana,2100000,Slovenian,Europe
+Solomon Islands,Honiara,750000,English,Australia/Oceania
+Somalia,Mogadishu,18100000,Somali/Arabic,Africa
+South Africa,Cape Town,60200000,English/Afrikaans,Africa
+South Sudan,Juba,13500000,English,Africa
+Spain,Madrid,47600000,Spanish,Europe
+Sri Lanka,Colombo,22100000,Sinhala/Tamil,Asia
+Sudan,Khartoum,49000000,Arabic/English,Africa
+Suriname,Paramaribo,630000,Dutch,South America
+Sweden,Stockholm,10600000,Swedish,Europe
+Switzerland,Bern,8900000,German/French,Europe
+Syria,Damascus,21600000,Arabic,Asia
+Tajikistan,Dushanbe,10300000,Tajiki/Russian,Asia
+Tanzania,Dodoma,67400000,Swahili/English,Africa
+Thailand,Bangkok,71800000,Thai,Asia
+Togo,Lome,9300000,French,Africa
+Tonga,Nuku'alofa,110000,Tongan/English,Australia/Oceania
+Trinidad and Tobago,Port of Spain,1400000,English,North America
+Tunisia,Tunis,12400000,Arabic,Africa
+TurkeyAnkara,86200000,Turkish,Eurasia
+Turkmenistan,Ashgabat,6500000,Turkmen,Asia
+Tuvalu,Funafuti,12000,Tuvaluan/English,Australia/Oceania
+Uganda,Kampala,48500000,Swahili/English,Africa
+Ukraine,Kyiv,35200000,Ukrainian,Europe
+United Arab Emirates,Abu Dhabi,10100000,Arabic,Asia
+United Kingdom,London,67700000,English,Europe
+United States,Washington DC,336500000,English,North America
+Uruguay,Montevideo,3500000,Spanish,South America
+Uzbekistan,Tashkent,36800000,Uzbek,Asia
+Vanuatu,Port Vila,330000,Bislama/English,Australia/Oceania
 Venezuela,Caracas,32219500,Spanish,South America
+Vietnam,Hanoi,100200000,Vietnamese,Asia
+Yemen,Sana'a,33600000,Arabic,Asia
+Zambia,Lusaka,20400000,English,Africa
+Zimbabwe,Harare,16300000,Shona/English,Africa
 
 
 
