@@ -1,6 +1,13 @@
-# code works, but will continue testing
+# Lab 3 - Team 7 - Susan, Vincent and Yvette
+# code works, and it was generated with chatGPT.  See prompt in write-up
 
 import csv
+
+"""
+Country Class: This class stores the attributes of a country: name, capital, population, language,
+and continent.  It also has a __str__ method to print the country details in a user-friendly format.
+
+"""
 
 class Country:
     def __init__(self, name, capital, population, language, continent):
@@ -16,6 +23,12 @@ class Country:
                 f"Population: {self.population}\n"
                 f"Languages: {', '.join(self.languages)}\n"
                 f"Continent: {self.continent}\n")
+
+
+"""
+CountryDatabase Class: This class handles operations related to the database of the countries. It
+reads the data from a CSV file and performs a binary search and sorting of the countries.
+"""
 
 class CountryDatabase:
     def __init__(self, csv_file):
@@ -52,7 +65,7 @@ class CountryDatabase:
         return []
 
     def search_by_language(self, language):
-        # Enhanced to check all languages for a match
+        # this method will check all languages for a match
         return [country for country in self.countries 
                 if any(lang.lower() == language.lower() for lang in country.languages)]
 
@@ -78,6 +91,13 @@ def main():
     last_search_results = None
 
     while True:
+    #After each search, the results are stored in the last_search_results variable.
+    #This list of countries will be used when sorting.
+    #Sorting options are shown only if last_search_results is not None, meaning a search has
+    #been performed, and there are results to sort.
+    #The function display_countries() is used to  print the countries in the search
+    #result or handle the case where no countries are found.
+    
         print("\nCountry Search Options:")
         print("1. Search by country name")
         print("2. Search by language")
