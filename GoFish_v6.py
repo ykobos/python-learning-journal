@@ -120,12 +120,33 @@ class GoFish:
     def determine_turn(self):
         self.current_turn = (self.current_turn + 1) % len(self.players)
 
+    """def check_end_game(self):
+    # Check if the deck is empty
+        if len(self.deck.cards) == 0:
+            return True
+
+    # Check if any player has no cards but has at least one book
+        for player in self.players:
+            if len(player.hand) == 0 and len(player.books) > 0:
+                return True
+
+    # Otherwise, the game continues
+        return False"""
+
     def check_end_game(self):
-        if not self.deck.cards and all(not player.hand for player in self.players):
+    # End the game if the deck is empty
+        if len(self.deck.cards) == 0:
             return True
-        if any(not player.hand for player in self.players):
-            return True
+
+    # End the game if any player has no cards left and has at least one book
+        for player in self.players:
+            if len(player.hand) == 0 and len(player.books) > 0:
+                return True
+
+    # Otherwise, the game continues
         return False
+
+
 
     def play_turn(self):
         current_player = self.players[self.current_turn]
@@ -194,19 +215,24 @@ class GoFish:
         else:
             print("No books were completed.")
 
+
+
 # Main game loop
 def main():
     game = GoFish()
     game.initialize_game()
-    while not game.check_end_game():
+    
+    # Main gameplay loop
+    while not game.check_end_game():  # Keep playing until the game should end
         game.play_turn()
 
-    game.announce_winner()
+    game.announce_winner()  # Announce the winner once the game ends
     play_again = input("Do you want to play again? (yes/no): ").strip().lower()
     if play_again == 'yes':
-        main()
+        main()  # Restart the game
     else:
         print("Great game! See you next time!")
+
 
 if __name__ == "__main__":
     main()
