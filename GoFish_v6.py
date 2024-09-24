@@ -120,18 +120,7 @@ class GoFish:
     def determine_turn(self):
         self.current_turn = (self.current_turn + 1) % len(self.players)
 
-    """def check_end_game(self):
-    # Check if the deck is empty
-        if len(self.deck.cards) == 0:
-            return True
-
-    # Check if any player has no cards but has at least one book
-        for player in self.players:
-            if len(player.hand) == 0 and len(player.books) > 0:
-                return True
-
-    # Otherwise, the game continues
-        return False"""
+    
 
     def check_end_game(self):
     # End the game if the deck is empty
